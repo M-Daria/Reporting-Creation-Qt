@@ -8,7 +8,7 @@ MainWindow::MainWindow(QWidget *parent)
     input->setMinimumWidth(700);
 
     setCentralWidget(input);
-    setWindowTitle(tr("Мамк"));
+    setWindowTitle(tr("Заполнение отчётности"));
 }
 
 MainWindow::~MainWindow()
