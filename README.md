@@ -1,2 +1,3 @@
-# Reporting-Creation-Qt
-Application for accelerating the creation of reports in Word and Excel.
+# Приложение для создания отчётности в Word и Excel
+
+Приложение ускоряет процесс создания отчётности в программах Word и Excel. Форма заполняется необходимыми данными, которые затем подставляются в шаблон отчёта, а также в таблицу Excel.
